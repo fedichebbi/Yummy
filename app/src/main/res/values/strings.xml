@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Yummy</string>
+    <string name="Slider_Title1">Find Food You Love</string>
+    <string name="Slider_Title2">Fast Delivery</string>
+    <string name="Slider_Title3">Enjoy The Experience</string>
+    <string name="Slider_Body1">Discover the best menus from over 100 cuisines and over 1000 restaurants </string>
+    <string name="Slider_Body2">Fast and free delivery to your home office. We will deliver it , wherever you are</string>
+    <string name="Slider_Body3">Don\'t feel like going out? No problem , we\'ll deliver your order . In bed! :)</string>
+    <string name="Home_Body">Craving for your favourite food? Takeaway will deliver it , wherever you are!</string>
 </resources>
